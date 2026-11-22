@@ -1,7 +1,7 @@
 # Lab 5: TryHackMe Walkthrough — RootMe
 
-**Name:** _your name_
-**Class:** _your class / student ID_
+**Name:** Muhammad Hayat Bin Abdullah
+**Class:** L01-B03 / 52215226009
 **Course:** IKB21403 Vulnerability Analysis
 **Date:** 23 November 2026
 
